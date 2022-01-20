@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Curriculum Vitae
-permalink: /cv/
+permalink: cv/
 ---
 
 ## Elena Bernabeu, MSc, PhD
