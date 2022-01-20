@@ -8,7 +8,7 @@ invisible: True
 
 ---
 
-![Header](/assets/img/header.png)
+![Header](assets/img/header.png)
 
 I'm **Elena Bernabeu**, a post-doctoral research fellow at the **[Institute of Genetics and Cancer](https://www.ed.ac.uk/institute-genetics-cancer)**, University of Edinburgh, within the **[Marioni group](https://marioni-group.owlstown.net/)**. My current research focuses on the use of **multi-omics** data to shed light on **ageing** and Alzheimer's disease. During my PhD, my research centered around the exploration and characterization of **sex differences** in **genetic architecture**.
 
