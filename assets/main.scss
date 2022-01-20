@@ -125,6 +125,6 @@ $on-laptop:        900px !default;
 // Import partials.
 @import
   "academic/base",
-  "academic/layout",
-  "academic/syntax-highlighting"
+  "academic/layout"
+  //"academic/syntax-highlighting"
 ;

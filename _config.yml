@@ -30,7 +30,7 @@ twitter_username: elenabernabio
 github_username:  elenabernabeu
 nav_ext_links:
   - name: Colored In Science
-    url: https://www.behance.net/coloredinscience
+  - url: https://www.behance.net/coloredinscience
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
