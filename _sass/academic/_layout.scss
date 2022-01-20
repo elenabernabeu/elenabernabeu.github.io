@@ -419,7 +419,7 @@
   
         .lang {
           display: inline-block;
-          text-transform: lowercase;
+          text-transform: none;
   
           a {
             color: $grey-color;
@@ -674,7 +674,7 @@
     list-style: none;
     margin-left: 0;
     margin-top: $spacing-unit / 2;
-    text-transform: lowercase;
+    text-transform: none;
   
     a:hover {
       text-decoration: none;

@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: elena bernabeu
-title_html: <b>elena</b>bernabeu
+title: Elena Bernabeu
+title_html: <b>Elena Bernabeu, PhD</b>
 #pitch: Postdoctoral Research Fellow
 email: elena.bernabeu@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,7 +30,7 @@ twitter_username: elenabernabio
 github_username:  elenabernabeu
 nav_ext_links:
   - name: Colored In Science
-  - url: https://www.behance.net/coloredinscience
+    url: https://www.behance.net/coloredinscience
 # Build settings
 theme: jekyll-theme-minimal
 plugins:

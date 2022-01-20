@@ -2,7 +2,7 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap');
 
 // Define defaults for each variable.
 
@@ -90,7 +90,7 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 
 $alt-font-family: "Source Sans Pro", sans-serif !default;
-$alt-font-weight: 900 !default;
+$alt-font-weight: 700 !default;
 
 $spacing-unit:     50px !default;
 
