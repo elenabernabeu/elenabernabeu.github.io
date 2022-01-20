@@ -32,7 +32,7 @@ nav_ext_links:
   - name: Colored In Science
     url: https://www.behance.net/coloredinscience
 # Build settings
-theme: academic
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
