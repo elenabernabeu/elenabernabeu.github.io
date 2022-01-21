@@ -167,15 +167,15 @@
   * Links
   */
  a {
-   color: $brand-color;
+   color: $text-color;
    text-decoration: none;
  
    &:visited {
-     color: darken($brand-color, 5%);
+     color: darken($text-color, 5%);
    }
  
    &:hover {
-     color: $text-color;
+     color: $brand-color;
      text-decoration: none;
    }
  }

@@ -92,7 +92,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 $alt-font-family: "Source Sans Pro", sans-serif !default;
 $alt-font-weight: 700 !default;
 
-$spacing-unit:     50px !default;
+$spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -106,7 +106,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 // Width of the content area
 $content-width:    900px;
 
-$on-palm:          700px !default;
+$on-palm:          600px !default;
 $on-laptop:        900px !default;
 
 // Use media queries like this:
