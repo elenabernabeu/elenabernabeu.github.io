@@ -32,8 +32,14 @@
    font-feature-settings: "kern", "liga", "clig", "calt";
    overflow-x: hidden;
  }
+
+ h3 {
+   color: $grey-color;
+ }
  
- 
+ h4 {
+  color: $brand-color;
+}
  
  /**
   * Set `margin-bottom` to maintain vertical rhythm
@@ -41,17 +47,27 @@
  p, blockquote, pre,
  ul, ol, dl, figure,
  %vertical-rhythm {
-   margin-bottom: $spacing-unit / 2;
+   margin-bottom: $spacing-unit / 1.5;
  }
  
  h1, h2, h3, h4, h5, h6,
  %vertical-rhythm {
-   margin-top: $spacing-unit;
+   margin-top: $spacing-unit / 1.5;
+ }
+
+ h3,
+ %vertical-rhythm {
+   margin-top: $spacing-unit / 1.1;
+ }
+
+ h3,
+ %vertical-rhythm {
+   margin-bottom: $spacing-unit /1.5;
  }
  
  h1,
  %vertical-rhythm {
-   margin-bottom: $spacing-unit / 7;
+   margin-bottom: $spacing-unit / 1.5;
  }
  
  h4, h5, h6,
@@ -61,7 +77,7 @@
  
  h1 + h2, h2 + h3, h3 + h4,
  h1 + h3, h1 + h4, h2 + h4 {
-   margin-top: $spacing-unit /2;
+   margin-top: $spacing-unit / 1.5;
  }
  
  

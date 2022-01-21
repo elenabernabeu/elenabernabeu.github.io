@@ -134,6 +134,7 @@
   line-height: 55px;
   letter-spacing: -1px;
   margin-bottom: -5px;
+  margin-top: 20px;
 
   &,
   &:visited {
@@ -141,6 +142,7 @@
   }
   &:hover {
     text-decoration: none;
+    color: $brand-color;
     border-bottom: 5px $brand-color solid;
   }
 
@@ -185,6 +187,7 @@
   float: right;
   line-height: 60px;
   z-index: 1000;
+  margin-top: 20px;
 
   .menu-icon {
     display: none;
@@ -302,6 +305,7 @@
 
 .site-footer {
   @include size(vsmall);
+  margin-top: $spacing-unit / 1.5;
   border-top: 1px solid $grey-color-light;
   color: $grey-color;
 
@@ -312,7 +316,7 @@
   .footer-col {
     list-style: none;
     margin-left: 0;
-    margin-top: $spacing-unit/2;
+    margin-top: $spacing-unit;
     margin-bottom: $spacing-unit;
 
     .author, .author a {

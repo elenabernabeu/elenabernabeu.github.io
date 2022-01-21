@@ -2,38 +2,37 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;600;700;800&family=Rubik:wght@300;400;700&family=Source+Sans+Pro:wght@400;700;900&display=swap');
 // Define defaults for each variable.
 
 $type-scale-large: (
-  h1: 2.841rem,
-  h2: 2.011rem,
-  h3: 1.563rem,
-  h4: 1.233rem,
-  p: 1.15rem,
-  small: 1.05rem,
-  vsmall: 1rem,
+  h1: 2.741rem,
+  h2: 1.911rem,
+  h3: 1.463rem,
+  h4: 1.133rem,
+  p: 1.05rem,
+  small: 0.95rem,
+  vsmall: 0.9rem,
 );
 
 $type-scale-medium: (
-  h1: 2.341rem,
-  h2: 1.553em,
-  h3: 1.463rem,
-  h4: 1.333rem,
-  p: 1.15rem,
-  small: 1.05rem,
-  vsmall: 1rem,
+  h1: 2.241rem,
+  h2: 1.453em,
+  h3: 1.363rem,
+  h4: 1.233rem,
+  p: 1.05rem,
+  small: 0.95rem,
+  vsmall: 0.9rem,
 );
 
 $type-scale-small: (
-  h1: 2.048rem,
-  h2: 1.619rem,
-  h3: 1.275rem,
-  h4: 1.133rem,
-  p: 1rem,
-  small: 0.85rem,
-  vsmall: 0.75rem,
+  h1: 1.948rem,
+  h2: 1.519rem,
+  h3: 1.175rem,
+  h4: 1.033rem,
+  p: 0.9rem,
+  small: 0.75rem,
+  vsmall: 0.65rem,
 );
 
 $type-line-large: (
@@ -72,27 +71,27 @@ $breakpoint-small: 45em;
 
 @mixin size($level) {
   font-size: map-get($type-scale-large, $level);
-  line-height: map-get($type-line-large, $level);
+  line-height: 0.8 * map-get($type-line-large, $level);
 
   @media (max-width: $breakpoint-medium) {
     font-size: map-get($type-scale-medium, $level);
-    line-height: map-get($type-line-medium, $level);
+    line-height: 0.8 * map-get($type-line-medium, $level);
   }
   @media (max-width: $breakpoint-small) {
     font-size: map-get($type-scale-small, $level);
-    line-height: map-get($type-line-medium, $level);
+    line-height: 0.8 * map-get($type-line-medium, $level);
   }
 }
 
-$base-font-family: "Source Sans Pro", sans-serif !default;
+$base-font-family: "Karla", sans-serif !default;
 $base-font-size:   14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 
-$alt-font-family: "Source Sans Pro", sans-serif !default;
-$alt-font-weight: 700 !default;
+$alt-font-family: "Karla", sans-serif !default;
+$alt-font-weight: 900 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     40px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -104,10 +103,10 @@ $grey-color-lighter: lighten($grey-color, 90%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    900px;
+$content-width:    950px;
 
 $on-palm:          600px !default;
-$on-laptop:        900px !default;
+$on-laptop:        950px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
