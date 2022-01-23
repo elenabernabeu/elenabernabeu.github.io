@@ -16,4 +16,11 @@ Outside work you'll likely find me obsessively scrolling on Pinterest, bingeing 
 
 On this page you'll find some basic info, including contact details, a (hopefully) up-to-date **[CV](cv/)**, and potentially other fun stuff!
 
-<p style="text-align:center;"><img src="assets/img/science_banner_withperson_2.svg" alt="Sciency Banner" width="900" class = "center"/></p>
+<p style="text-align:center;">
+<picture>
+  <source 
+    media="(min-width: 600px)"
+    srcset="assets/img/science_banner_withperson_2.svg">
+  <img width = 600px src="assets/img/science_banner_withperson_vertical.svg">
+</picture>
+</p>
