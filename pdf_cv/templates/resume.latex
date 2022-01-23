@@ -95,8 +95,8 @@ $endif$
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\setstretch{0.9}
-\relscale{0.8}
+\setstretch{1.1}
+\relscale{0.7}
 \raggedright
 \thispagestyle{empty}
 \subsectionfont{\normalsize} 
@@ -113,11 +113,10 @@ $endif$
   {\huge \name}
   $endif$
 
-  \raisebox{-.3\height}{\includegraphics[scale=0.6]{email.pdf}} \small $email$ \linebreak
-  \raisebox{-.3\height}{\includegraphics[scale=0.6]{website.pdf}} \small $website$ \linebreak
-  \raisebox{-.3\height}{\includegraphics[scale=0.6]{github.pdf}} \small $github$ \linebreak
-  \raisebox{-.3\height}{\includegraphics[scale=0.6]{twitter.pdf}} \small $twitter$ \linebreak
-  \newline
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{email.pdf}} \small $email$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{website.pdf}} \small $website$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{github.pdf}} \small $github$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{twitter.pdf}} \small $twitter$ \linebreak
   \newline
 
 

@@ -4,8 +4,8 @@ title: Curriculum Vitae
 subtitle: Post-Doctoral Research Fellow
 permalink: cv/
 name: Elena Bernabeu, MSc, PhD
-name-color: e5768b
-section-color: e5768b
+name-color: fb809f
+section-color: fb809f
 body-color: 3F3F3F
 urlcolor: PaleVioletRed
 email: "elena.bernabeu@ed.ac.uk"
