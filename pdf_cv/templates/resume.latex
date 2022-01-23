@@ -1,0 +1,129 @@
+% LaTeX Resume Pandoc Template
+%
+% Based on John Bokma's script:
+% GitHub: https://github.com/john-bokma/resume-pandoc
+
+\documentclass[$if(fontsize)$$fontsize$$else$10pt$endif$,letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{underscore}
+\usepackage[parfill]{parskip}
+\usepackage[svgnames]{xcolor}
+\usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{setspace}
+\usepackage{relsize}
+
+
+% Body font color
+\color[HTML]{$body-color$}
+
+
+% Where images are 
+\usepackage{graphicx}
+\graphicspath{ {../assets/img/}{../_includes/_icons/} }
+
+
+% Font stuff
+\usepackage[familydefault,regular]{Chivo} %% Option 'familydefault' only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+
+% Your name on the resume
+\def\name{$name$}
+
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+  linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,  
+  pdfauthor = {\name},
+  pdfkeywords = {$keywords$},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+
+\geometry{
+  body={6in, 8.5in},
+  margin=1in
+}
+
+
+% Fix  for "! Undefined control sequence. <recently read> \tightlist",
+% see: https://github.com/osener/markup.rocks/issues/4
+% I have this issue with Pandoc 1.17.2
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+% Custom section fonts
+\usepackage{sectsty}
+$if(section-color)$
+\sectionfont{\color[HTML]{$section-color$}\Large}
+$else$
+\sectionfont{\Large}
+$endif$
+
+
+% Section numbers or not (default)
+$if(numbersections)$
+\setcounter{secnumdepth}{5}
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+
+
+% By putting an empty \item[] at the start of the list, the list
+% starts on a new line.
+\setlist[itemize]{leftmargin=1em,label={--},before=\item[]}
+\setlist[description]{leftmargin=0em, style=sameline}
+
+
+% Don't use monospace font for URLs
+\urlstyle{same}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% Actual doc starts here!
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\setstretch{0.9}
+\relscale{0.8}
+\raggedright
+\thispagestyle{empty}
+\subsectionfont{\normalsize} 
+
+% Header
+
+\begin{center}
+  \includegraphics[width=30mm]{profile.png}
+
+
+  $if(name-color)$
+  {\huge\color[HTML]{$name-color$} \textbf{\name}}
+  $else$
+  {\huge \name}
+  $endif$
+
+  \raisebox{-.3\height}{\includegraphics[scale=0.6]{email.pdf}} \small $email$ \linebreak
+  \raisebox{-.3\height}{\includegraphics[scale=0.6]{website.pdf}} \small $website$ \linebreak
+  \raisebox{-.3\height}{\includegraphics[scale=0.6]{github.pdf}} \small $github$ \linebreak
+  \raisebox{-.3\height}{\includegraphics[scale=0.6]{twitter.pdf}} \small $twitter$ \linebreak
+  \newline
+  \newline
+
+
+\end{center}
+
+\begin{multicols}{2}
+$body$
+\end{multicols}
+\end{document}
