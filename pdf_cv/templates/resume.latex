@@ -96,7 +96,7 @@ $endif$
 
 \begin{document}
 \setstretch{1.1}
-\relscale{0.7}
+\relscale{0.8}
 \raggedright
 \thispagestyle{empty}
 \subsectionfont{\normalsize} 
