@@ -21,6 +21,6 @@ On this page you'll find some basic info, including contact details, a (hopefull
   <source 
     media="(min-width: 600px)"
     srcset="assets/img/science_banner_withperson_2.svg">
-  <img width = 600px src="assets/img/science_banner_withperson_vertical.svg">
+  <img src="assets/img/science_banner_withperson_vertical_2.svg">
 </picture>
 </p>
