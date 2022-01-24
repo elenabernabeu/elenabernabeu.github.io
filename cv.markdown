@@ -124,6 +124,12 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 
 ### Invited Talks  
 
+#### **INIA Genetics Seminars**  
+*Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Madrid, Spain (Online)* - **2022**
+
+#### **ISCB Academy Webinars**  
+*International Society of Computational Biology (Online)* - **2022**
+
 #### **Social Genomics at the University of Wisconsin**  
 *University of Wisconsin-Madison, Madison, Wisconsin, USA (Online)* - **2021**
 
