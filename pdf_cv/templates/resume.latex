@@ -4,7 +4,6 @@
 % GitHub: https://github.com/john-bokma/resume-pandoc
 
 \documentclass[$if(fontsize)$$fontsize$$else$10pt$endif$,letterpaper]{article}
-
 \usepackage{hyperref}
 \usepackage{geometry}
 \usepackage{enumitem}
@@ -19,6 +18,10 @@
 \usepackage{relsize}
 \usepackage{nopageno}
 
+% Font stuff
+\usepackage{fontspec}
+\setmainfont{Galvji}
+
 
 % Body font color
 \color[HTML]{$body-color$}
@@ -27,11 +30,6 @@
 % Where images are 
 \usepackage{graphicx}
 \graphicspath{ {../assets/img/}{../_includes/_icons/} }
-
-
-% Font stuff
-\usepackage[familydefault,regular]{Chivo} %% Option 'familydefault' only if the base font of the document is to be sans serif
-\usepackage[T1]{fontenc}
 
 
 % Your name on the resume
@@ -53,7 +51,7 @@
 
 \geometry{
   body={6in, 8.5in},
-  margin=1in
+  margin=0.9in
 }
 
 
@@ -96,7 +94,7 @@ $endif$
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\setstretch{1.1}
+\setstretch{0.95}
 \relscale{0.8}
 \raggedright
 \thispagestyle{empty}
@@ -110,15 +108,15 @@ $endif$
 
 
   $if(name-color)$
-  {\huge\color[HTML]{$name-color$} \textbf{\name}}
+  {\huge \color[HTML]{$name-color$} \textbf{\name}}
   $else$
   {\huge \name}
   $endif$
 
-  \raisebox{-.2\height}{\includegraphics[scale=0.6]{email.pdf}} \small $email$ \linebreak
-  \raisebox{-.2\height}{\includegraphics[scale=0.6]{website.pdf}} \small $website$ \linebreak
-  \raisebox{-.2\height}{\includegraphics[scale=0.6]{github.pdf}} \small $github$ \linebreak
-  \raisebox{-.2\height}{\includegraphics[scale=0.6]{twitter.pdf}} \small $twitter$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{email.pdf}} \footnotesize $email$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{website.pdf}} \footnotesize $website$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{github.pdf}} \footnotesize $github$ \linebreak
+  \raisebox{-.2\height}{\includegraphics[scale=0.6]{twitter.pdf}} \footnotesize $twitter$ \linebreak
   \newline
 
 
