@@ -23,7 +23,7 @@ twitter: "elenabernabio"
 **Institute of Genetics and Cancer, The University of Edinburgh**  
 *Edinburgh, UK - October 2021 to Present*
 
-Researching ageing and Alzheimer's disease making use of multi-omics data from Generation Scotland,within Dr. Riccardo Marioni's group. Collaboration with Dr. Catalina Vallejos and Dr. Matthew Robinson. Work funded by Alzheimer's Society.
+Researching ageing and Alzheimer's disease making use of multi-omics data from Generation Scotland, within Dr. Riccardo Marioni's group. Collaboration with Dr. Catalina Vallejos and Dr. Matthew Robinson. Work funded by Alzheimer's Society.
 
 <img src="/assets/img/divider_2.svg" alt="divider_2">
 

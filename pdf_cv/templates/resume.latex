@@ -17,6 +17,7 @@
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{relsize}
+\usepackage{nopageno}
 
 
 % Body font color
@@ -100,6 +101,7 @@ $endif$
 \raggedright
 \thispagestyle{empty}
 \subsectionfont{\normalsize} 
+
 
 % Header
 
