@@ -178,6 +178,10 @@ Sonia Tarazona, **Elena Bernabeu**, Héctor Carmona, Belén Gómez-Giménez, Jav
 <img src="/assets/img/divider_1.svg" alt="divider_1">
 
 ### Relevant Training
+#### **Ed-DaSH Workflows with Nextflow**  
+**The University of Edinburgh, Edinburgh, UK (2022)**  
+2 full day course on Nextflow workflows, using The Carpentries platform.
+
 #### **Edinburgh Teaching Award (EdTA) Cohort**  
 **The University of Edinburgh, Edinburgh, UK (2021)**  
 Mentored route to obtain Higher Education Academy accreditation.
