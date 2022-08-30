@@ -65,13 +65,13 @@ Helped develop and imparted a Consultancy Style Dissertation Summer project titl
 
 Demonstrated, marked, and tutored for a number of master's level courses at the University of Edinburgh (over 200 hours), including:
 
-##### **Bioinformatics Programming and Systems Management**  
+#### **Bioinformatics Programming and Systems Management**  
 *MSc Bioinformatics (2019-2020)*
 
-##### **Comparative and Evolutionary Genomics**  
+#### **Comparative and Evolutionary Genomics**  
 *MSc Bioinformatics (2019-2020)*
 
-##### **Statistics and Data Analysis**  
+#### **Statistics and Data Analysis**  
 *MSc Bioinformatics, MSc in Quantitative Genetics and Genomic Analysis (2019)*
 
 <img src="/assets/img/divider_2.svg" alt="divider_1">
