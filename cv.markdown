@@ -74,7 +74,7 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 #### **Statistics and Data Analysis**  
 *MSc Bioinformatics, MSc in Quantitative Genetics and Genomic Analysis (2019)*
 
-<img src="/assets/img/divider_2.svg" alt="divider_1">
+<img src="/assets/img/divider_1.svg" alt="divider_1">
 
 ### Student supervision
 
