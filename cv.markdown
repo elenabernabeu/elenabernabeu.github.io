@@ -56,17 +56,31 @@ Part of the High-Academic Performance group. Graduated with a 9.1/10 grade avera
 <img src="/assets/img/divider_1.svg" alt="divider_1">
 
 ### Teaching
+#### **Predicting Age from a DNA Sample: Consultancy Style Dissertation Summer project**  
+*MSc Statistics and Data Science (2022)*
 
-Demonstrated, marked, and tutored for a number of master's level courses at the **University of Edinburgh** (over 200 hours), including:
+Helped develop and imparted a Consultancy Style Dissertation Summer project titled "Predicting Age from a DNA sample" for the MSc in Statistics and Data Science at the University of Edinburgh, supervising over 30 students.
 
-#### **Bioinformatics Programming and Systems Management**  
+<img src="/assets/img/divider_2.svg" alt="divider_2">
+
+Demonstrated, marked, and tutored for a number of master's level courses at the University of Edinburgh (over 200 hours), including:
+
+##### **Bioinformatics Programming and Systems Management**  
 *MSc Bioinformatics (2019-2020)*
 
-#### **Comparative and Evolutionary Genomics**  
+##### **Comparative and Evolutionary Genomics**  
 *MSc Bioinformatics (2019-2020)*
 
-#### **Statistics and Data Analysis**  
+##### **Statistics and Data Analysis**  
 *MSc Bioinformatics, MSc in Quantitative Genetics and Genomic Analysis (2019)*
+
+<img src="/assets/img/divider_2.svg" alt="divider_1">
+
+### Student supervision
+
+- **Kris Holt** (Co-supervised rotation project for Wellcome Trust Translational Neuroscience PhD programme, Spring 2022)
+- **Krystal Laing** (Co-supervised rotation project for Wellcome Trust Translational Neuroscience PhD programme, Spring 2022)
+- **Hannah Smith** (Co-supervised rotation project for Wellcome Trust Translational Neuroscience PhD programme, Spring 2022)   
 
 <img src="/assets/img/divider_2.svg" alt="divider_2">
 
@@ -124,6 +138,9 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 
 ### Invited Talks  
 
+#### **UK Conference of Bioinformatics and Computational Biology**
+*University College London, London, United Kingdom (Online)* - **2022**
+
 #### **INIA Genetics Seminars**  
 *Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Madrid, Spain (Online)* - **2022**
 
@@ -145,6 +162,10 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 <img src="/assets/img/divider_1.svg" alt="divider_1">
 
 ### Conference Contributions
+
+#### **Organizing committees**  
+
+- **Gordon Research Seminar in Quantitative Genetics and Genomics** (2023) - Co-chairing, Ventura, California, USA
 
 #### **Posters**  
 
