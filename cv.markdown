@@ -139,7 +139,7 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 ### Invited Talks  
 
 #### **UK Conference of Bioinformatics and Computational Biology**
-*University College London, London, United Kingdom (Online)* - **2022**
+*Earlham Institute, Norwich, United Kingdom (Online)* - **2022**
 
 #### **INIA Genetics Seminars**  
 *Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Madrid, Spain (Online)* - **2022**
