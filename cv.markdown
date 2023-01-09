@@ -58,12 +58,17 @@ Part of the High-Academic Performance group. Graduated with a 9.1/10 grade avera
 ### Teaching
 
 #### **Intermediate/Advanced Epidemiology**  
-*MSc Epidemiology (2023)*
+*MSc Epidemiology, University of Edinburgh (2022/2023)*
 
-Helped develop and imparted lesson on prediction modelling, as well as accompanying exercise.
+Helped develop and imparted lesson on prediction modelling, as well as accompanying exercises.
+
+#### **Introduction to Genetic and Molecular Epidemiology**  
+*MSc Epidemiology, University of Edinburgh (2022/2023)*
+
+Helped impart lesson introducing basic epidemiology and multi-omics concepts at the post-graduate level. 
 
 #### **Predicting Age from a DNA Sample: Consultancy Style Dissertation Summer project**  
-*MSc Statistics and Data Science (2022)*
+*MSc Statistics and Data Science, University of Edinburgh (2021/2022)*
 
 Helped develop and imparted a Consultancy Style Dissertation Summer project titled "Predicting Age from a DNA sample" for the MSc in Statistics and Data Science at the University of Edinburgh, supervising over 30 students.
 
