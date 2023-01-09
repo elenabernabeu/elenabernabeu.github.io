@@ -56,6 +56,12 @@ Part of the High-Academic Performance group. Graduated with a 9.1/10 grade avera
 <img src="/assets/img/divider_1.svg" alt="divider_1">
 
 ### Teaching
+
+#### **Intermediate/Advanced Epidemiology**  
+*MSc Epidemiology (2023)*
+
+Helped develop and imparted lesson on prediction modelling, as well as accompanying exercise.
+
 #### **Predicting Age from a DNA Sample: Consultancy Style Dissertation Summer project**  
 *MSc Statistics and Data Science (2022)*
 
@@ -187,6 +193,12 @@ Demonstrated, marked, and tutored for a number of master's level courses at the 
 
 Google scholar **[here](https://scholar.google.com/citations?user=xXYBCxIAAAAJ&hl=en)**.  
 ORCID **[here](https://orcid.org/0000-0002-5848-5720)**.  
+
+Selected publications:
+
+#### **Refining epigenetic prediction of chronological and biological age**  
+**Elena Bernabeu**, Daniel L McCartney, Danni A Gadd, Robert F Hillary, Ake T Lu, Lee Murphy, Nicola Wrobel, Archie Campbell, Sarah E Harris, David Liewald, Caroline Hayward, Cathie Sudlow, Simon R Cox, Kathryn L Evans, Steve Horvath, Andrew M McIntosh, Matthew R Robinson, Catalina Vallejos, Riccardo E Marioni
+*bioRxiv* (2022), doi: 10.1101/2022.09.08.507115
 
 #### **Sex differences in genetic architecture in the UK Biobank**  
 **Elena Bernabeu**, Oriol Canela-Xandri, Konrad Rawlik, Andrea Talenti, James Prendergast and Albert Tenesa  
