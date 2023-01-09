@@ -67,6 +67,11 @@ Helped develop and imparted lesson on prediction modelling, as well as accompany
 
 Helped impart lesson introducing basic epidemiology and multi-omics concepts at the post-graduate level. 
 
+#### **Introduction to Genomics**  
+*Biomedical AI PhD Programme, University of Edinburgh (2022/2023)*
+
+Lesson part of induction week for Biomedical AI PhD students. Helped develop and imparted lesson on basics of genomics, including basic molecular biology, association modeling approaches/GWAS, linkage disequilibrium, and polygenic risk scores.
+
 #### **Predicting Age from a DNA Sample: Consultancy Style Dissertation Summer project**  
 *MSc Statistics and Data Science, University of Edinburgh (2021/2022)*
 
