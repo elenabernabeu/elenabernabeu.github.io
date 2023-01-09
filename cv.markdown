@@ -197,11 +197,11 @@ ORCID **[here](https://orcid.org/0000-0002-5848-5720)**.
 Selected publications:
 
 #### **Reply to: Genotype by sex interactions in ankylosing spondylitis**  
-**Elena Bernabeu**, Konrad Rawlik, Oriol Canela-Xandri, Andrea Talenti, James Prendergast, and Albert Tenesa
+**Elena Bernabeu**, Konrad Rawlik, Oriol Canela-Xandri, Andrea Talenti, James Prendergast, and Albert Tenesa  
 *Nature Genetics* (2023), doi: 10.1038/s41588-022-01251-4
 
 #### **Refining epigenetic prediction of chronological and biological age**  
-**Elena Bernabeu**, Daniel L McCartney, Danni A Gadd, Robert F Hillary, Ake T Lu, Lee Murphy, Nicola Wrobel, Archie Campbell, Sarah E Harris, David Liewald, Caroline Hayward, Cathie Sudlow, Simon R Cox, Kathryn L Evans, Steve Horvath, Andrew M McIntosh, Matthew R Robinson, Catalina Vallejos, and Riccardo E Marioni
+**Elena Bernabeu**, Daniel L McCartney, Danni A Gadd, Robert F Hillary, Ake T Lu, Lee Murphy, Nicola Wrobel, Archie Campbell, Sarah E Harris, David Liewald, Caroline Hayward, Cathie Sudlow, Simon R Cox, Kathryn L Evans, Steve Horvath, Andrew M McIntosh, Matthew R Robinson, Catalina Vallejos, and Riccardo E Marioni  
 *bioRxiv* (2022), doi: 10.1101/2022.09.08.507115
 
 #### **Sex differences in genetic architecture in the UK Biobank**  
