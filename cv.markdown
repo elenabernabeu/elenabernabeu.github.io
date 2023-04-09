@@ -212,7 +212,7 @@ Selected publications:
 
 #### **Refining epigenetic prediction of chronological and biological age**  
 **Elena Bernabeu**, Daniel L McCartney, Danni A Gadd, Robert F Hillary, Ake T Lu, Lee Murphy, Nicola Wrobel, Archie Campbell, Sarah E Harris, David Liewald, Caroline Hayward, Cathie Sudlow, Simon R Cox, Kathryn L Evans, Steve Horvath, Andrew M McIntosh, Matthew R Robinson, Catalina Vallejos, and Riccardo E Marioni  
-*bioRxiv* (2022), doi: 10.1101/2022.09.08.507115
+*Genome Medicine* (2022), doi: 10.1101/2022.09.08.507115
 
 #### **Sex differences in genetic architecture in the UK Biobank**  
 **Elena Bernabeu**, Oriol Canela-Xandri, Konrad Rawlik, Andrea Talenti, James Prendergast and Albert Tenesa  
