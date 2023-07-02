@@ -25,8 +25,6 @@ twitter: "elenabernabio"
 
 Research bioinformatician within the bioconsulting team. 
 
-<img src="/assets/img/divider_2.svg" alt="divider_2">
-
 #### **Post-doctoral Research Fellow**  
 **Institute of Genetics and Cancer, The University of Edinburgh**  
 *Edinburgh, UK - October 2021 to June 2023*
