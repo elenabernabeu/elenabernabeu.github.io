@@ -8,7 +8,7 @@ name-color: fb809f
 section-color: fb809f
 body-color: 3F3F3F
 urlcolor: PaleVioletRed
-email: "elena.bernabeu@ed.ac.uk"
+email: "elena.bernabeu@genomicsengland.co.uk"
 website: "elenabernabeu.github.io"
 github: "elenabernabeu"
 twitter: "elenabernabio"

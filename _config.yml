@@ -20,9 +20,9 @@
 
 title: Elena Bernabeu
 title_html: <b>Elena</b> Bernabeu, <b>PhD</b>
-email: elena.bernabeu@ed.ac.uk
+email: elena.bernabeu@genomicsengland.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  E-mail: elena.bernabeu@ed.ac.uk
+  E-mail: elena.bernabeu@genomicsengland.co.uk
 url: "https://elenabernabeu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 curriculum:
   url: https://github.com/elenabernabeu/elenabernabeu.github.io/raw/master/pdf_cv/cv.pdf
