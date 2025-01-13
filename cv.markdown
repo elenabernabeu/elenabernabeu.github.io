@@ -23,7 +23,12 @@ twitter: "elenabernabio"
 **Genomics England**  
 *London, UK (Hybrid) - June 2023 to Present*
 
-Research bioinformatician within the bioconsulting team. 
+Research bioinformatician within the Genomics England bioconsulting team, providing cutting-edge research services to industry and academic partners. As part of my role, I have:
+
+- Led large consultancy projects as part of multi-year, multi-million pound deal with industry collaborators
+- Leveraged large-scale multi-omic Genomics England and publicly available datasets and resources (UK Biobank, GTEx, eQTLGen, gnomAD, etc), applying cutting-edge computational biology and statistical genetics methods to inform drug discovery pipelines and gain biological insights into complex diseases
+- Generated high-quality written reports and oral presentations for a variety of stakeholders and audiences
+- Worked both independently as well as embedded in a rich multi-disciplinary team, with the common goal of maximising positive impact for Genomics England participants, facilitating academic research using Genomics England cohort data and computational resources, and helping industry collaborators expand market reach
 
 #### **Post-doctoral Research Fellow**  
 **Institute of Genetics and Cancer, The University of Edinburgh**  
