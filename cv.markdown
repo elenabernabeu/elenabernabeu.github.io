@@ -27,6 +27,7 @@ Research bioinformatician within the Genomics England bioconsulting team, provid
 
 - Led large consultancy projects as part of multi-year, multi-million pound deal with industry collaborators
 - Leveraged large-scale multi-omic Genomics England and publicly available datasets and resources (UK Biobank, GTEx, eQTLGen, gnomAD, etc), applying cutting-edge computational biology and statistical genetics methods to inform drug discovery pipelines and gain biological insights into complex diseases
+- Developed Statements of Work leveraging latest literature in field to find creative solutions to complex problems
 - Generated high-quality written reports and oral presentations for a variety of stakeholders and audiences
 - Worked both independently as well as embedded in a rich multi-disciplinary team, with the common goal of maximising positive impact for Genomics England participants, facilitating academic research using Genomics England cohort data and computational resources, and helping industry collaborators expand market reach
 
